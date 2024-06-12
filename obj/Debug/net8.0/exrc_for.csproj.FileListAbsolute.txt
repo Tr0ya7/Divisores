@@ -1,0 +1,14 @@
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\bin\Debug\net8.0\exrc_for.exe
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\bin\Debug\net8.0\exrc_for.deps.json
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\bin\Debug\net8.0\exrc_for.runtimeconfig.json
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\bin\Debug\net8.0\exrc_for.dll
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\bin\Debug\net8.0\exrc_for.pdb
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.AssemblyInfoInputs.cache
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.AssemblyInfo.cs
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.dll
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\refint\exrc_for.dll
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.pdb
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\exrc_for.genruntimeconfig.cache
+C:\Users\luis\Downloads\curso c#\exrc_for\exrc_for\obj\Debug\net8.0\ref\exrc_for.dll
